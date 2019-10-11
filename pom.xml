@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
   
   <scm>
-      <connection>scm:git:ssh://github.com/vaani-mohan</connection>
-      <developerConnection>scm:git:ssh://https://github.com/vaani-mohan</developerConnection>
+      <connection>scm:git:ssh://github.com/vaani-mohan/webapp1</connection>
+      <developerConnection>scm:git:ssh://https://github.com/vaani-mohan/webapp1</developerConnection>
   </scm>
   </project>

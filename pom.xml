@@ -5,7 +5,7 @@
   <groupId>org.example</groupId>
   <artifactId>webapp1</artifactId>
   <version>1.0</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   
   <scm>
       <connection>scm:git:ssh://github.com/vaani-mohan/webapp1</connection>
